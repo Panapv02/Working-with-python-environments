@@ -5,11 +5,11 @@ Tarea: Working with python environments
 	<ol>
 		<il>Crear un repo nuevo en gitHub.</li>
 		<li>Copiar la url del repo.</li>
-		<li>Usar <code>git clone "url"</code>git para clonar el repo en local.</li>
+		<li>Usar <code>git clone "url"</code> para clonar el repo en local.</li>
 	</ol>
 <li>Crear un Entorno basado en un archivo yml:</li>
 	<ul>
-	<li>Usar conda env export > "nombre_archivo".yml para crear el entorno.</li>
+	<li>Usar <code>conda env export > "nombre_archivo".yml</code>code> para crear el entorno.</li>
 	</ul>
 <li>Ejecutar código:</li>
 	<ul>
