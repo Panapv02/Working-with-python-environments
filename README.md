@@ -5,7 +5,7 @@ Tarea: Working with python environments
 	<ol>
 		<il>Crear un repo nuevo en gitHub.</li>
 		<li>Copiar la url del repo.</li>
-		<li>Usar git clone "url" para clonar el repo en local.</li>
+		<li>Usar <codegit clone "url"</code>git para clonar el repo en local.</li>
 	</ol>
 <li>Crear un Entorno basado en un archivo yml:</li>
 	<ul>
