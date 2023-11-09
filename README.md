@@ -1,7 +1,7 @@
 # Working-with-python-environments
 Tarea: Working with python environments
 <ul>
-	<ul>Clonar repo:</li>
+	<il>Clonar repo:</li>
 	<ol>
 	<li>Crear un repo nuevo en gitHub.</li>
 	<li>Copiar la url del repo.</li>
