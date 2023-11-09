@@ -6,7 +6,7 @@ Tarea: Working with python environments
 	<li>Crear un repo nuevo en gitHub.</li>
 	<li>Copiar la url del repo.</li>
 	<li>Usar el comando git clone "url" para clonar el repo en local.</li>
-	</ul>
+	</ol>
 <li>Crear un Entorno basado en un archivo yml:</li>
 	<ol>
 	<li>Usar el comando conda env export > "nombre_archivo".yml para crear el entorno.</li>
