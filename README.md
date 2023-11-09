@@ -9,11 +9,11 @@ Tarea: Working with python environments
 	</ol>
 <li>Crear un Entorno basado en un archivo yml:</li>
 	<ul>
-	<li>Usar <code>conda env export > "nombre_archivo".yml</code>code> para crear el entorno.</li>
+	<li>Usar <code>conda env export > "nombre_archivo".yml</code> para crear el entorno.</li>
 	</ul>
 <li>Ejecutar código:</li>
 	<ul>
-	<li>Usar python3 "nombre_archivo".yml</li>
+	<li>Usar <code> python3 "nombre_archivo".yml</code> </li>
 	</ul>
 </ul>
 
