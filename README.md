@@ -1,6 +1,6 @@
 # Working-with-python-environments
 Tarea: Working with python environments
-<ul>
+<ol>
 	<li>Clonar repo:</li>
 	<ul>
 	<li>Crear un repo nuevo en gitHub.</li>
@@ -11,5 +11,5 @@ Tarea: Working with python environments
 	<li>Usar el comando conda env export > "nombre_archivo".yml para crear el entorno.</li>
 <li>Ejecutar código:</li>
 	<li>Usar el comando python3 "nombre_archivo".yml</li>
-</ul>
+</ol>
 
