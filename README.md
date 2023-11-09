@@ -3,7 +3,7 @@ Tarea: Working with python environments
 <ul>
 	<li>Clonar repo:</li>
 	<ol>
-		<li>Crear un repo nuevo en gitHub.</li>
+		<il>Crear un repo nuevo en gitHub.</il>
 		<li>Copiar la url del repo.</li>
 		<li>Usar el comando git clone "url" para clonar el repo en local.</li>
 	</ol>
